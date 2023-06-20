@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelOtomasyonu", "PersonelOtomasyonu\PersonelOtomasyonu.csproj", "{35941426-DD9B-4CF8-A3A6-473DECA8005B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelForm", "PersonelForm\PersonelForm.csproj", "{A4BC853E-4CD4-4F40-8AE3-CDE7994725BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35941426-DD9B-4CF8-A3A6-473DECA8005B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35941426-DD9B-4CF8-A3A6-473DECA8005B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35941426-DD9B-4CF8-A3A6-473DECA8005B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35941426-DD9B-4CF8-A3A6-473DECA8005B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BC853E-4CD4-4F40-8AE3-CDE7994725BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BC853E-4CD4-4F40-8AE3-CDE7994725BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BC853E-4CD4-4F40-8AE3-CDE7994725BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BC853E-4CD4-4F40-8AE3-CDE7994725BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29E2BB5-F76C-4BAB-AAC8-D9621687A8E1}
+	EndGlobalSection
+EndGlobal
